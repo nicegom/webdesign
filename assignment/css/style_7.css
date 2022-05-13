@@ -1,0 +1,140 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+h1, h2, h3, skills {
+    font-family: 'Libre Bodoni', serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 30px ;
+    padding: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+nav {
+    background: #5bbfa1;
+    position: fixed;
+    z-index: 1;
+    width: 100%
+}
+
+nav ul {
+    margin: 0 auto ;
+    text-align: center;
+    padding: 40px;
+    border-bottom: solid 1px #000;
+}
+
+header{
+    position: relative;
+    padding-top: 100px;
+    background-color:#5bbfa1;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 48px;
+    line-height: 1.5;
+}
+
+ul li{
+    list-style-type: none;
+    margin: 10px 0 ;
+}
+
+.button{
+    border: 1px solid #fff;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin : 20px 40px;
+}
+
+.intro_img{
+    margin-top: 50px;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.2)
+}
+
+.prf_img figure{
+    position: absolute;
+}
+
+#profile{
+    padding: 120px 0;
+}
+figcaption{
+    font-size: 8px;
+    margin-top: 5px;
+    text-align: right;
+}
+
+.experinence{
+    text-align: center;
+    margin-top: 150px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    line-height: 1.3;
+}
+
+.skill_list{
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 50px
+}
+
+.project{
+    margin: 20px 0 ;
+    padding: 40px;
+}
+
+.project .button{
+    margin : 10px 0;
+}
+
+.puple{
+    background-color: #907ca3;
+}
+
+footer{
+    text-align: center;
+    margin: 40px;
+    border-top: 1px solid #666;
+}
+
+footer h3{
+    font-size: 30px;
+}
+
+.txt_right{
+    text-align: right;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #111;
+}
+ul li a:hover{
+    color: #fff;
+    transition: 0.3s;
+}
+
+#visual{
+    padding: 80px;
+}
