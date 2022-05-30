@@ -21,7 +21,7 @@ section.cha1 .cha-txt a { display: inline-block; margin-top: 30px; text-decorati
 section.cha1 .cha-txt a:hover { color : #fff;  
     background: url("../img/arrow2.png") no-repeat 90% 45% / 30px #e250c2; border: 1px solid #e250c2;}
 section.cha1 .cha-txt h3 { color: #e250c2; }
-section.cha1 .cha-img { width: 50%; background: url("./img/cha-1.jpg") no-repeat; background-size: cover}
+section.cha1 .cha-img { width: 50%; background: url("../img/cha-1.jpg") no-repeat; background-size: cover}
 
 section.cha2 { display: flex; flex-flow: row wrap; box-sizing: border-box; align-items: stretch; }
 section.cha2 .cha-img { width: 50%; background: url("../img/cha-2.jpg") no-repeat; background-size: cover}
