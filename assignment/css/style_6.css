@@ -17,7 +17,7 @@ section .cha-txt h3 { font-size: 24px; font-family:SC_md; color: #000; display: 
 
 section .cha-txt p { font-size: 16px; font-family: SC_rg; margin-top: 10px; }
 section.cha1 { display: flex; flex-flow: row wrap; box-sizing: border-box; align-items: stretch; }
-section.cha1 .cha-txt a {display: inline-block; margin-top: 30px; text-decoration: none; padding: 10px 50px 10px 15px; color: #d87cc4; font-family:SC_lt; font-size: 16px; border: 1px solid #d87cc4; text-align: center; background: url("./img/arrow1.png") no-repeat 90% 45% / 30px ; }
+section.cha1 .cha-txt a {text-align:center; display: inline-block; margin-top: 30px; text-decoration: none; padding: 10px 50px 10px 15px; color: #d87cc4; font-family:SC_lt; font-size: 16px; border: 1px solid #d87cc4; text-align: center; background: url("./img/arrow1.png") no-repeat 90% 45% / 30px ; }
 section.cha1 .cha-txt a:hover { color : #fff;  
     background: url("../img/arrow2.png") no-repeat 90% 45% / 30px #e250c2; border: 1px solid #e250c2;}
 section.cha1 .cha-txt h3 { color: #e250c2; }
@@ -26,7 +26,7 @@ section.cha1 .cha-img { width: 50%; background: url("./img/cha-1.jpg") no-repeat
 section.cha2 { display: flex; flex-flow: row wrap; box-sizing: border-box; align-items: stretch; }
 section.cha2 .cha-img { width: 50%; background: url("./img/cha-2.jpg") no-repeat; background-size: cover}
 section.cha2 .cha-txt h3 { color: #5066e2; }
-section.cha2 .cha-txt a {display: inline-block; margin-top: 30px; text-decoration: none; padding: 10px 50px 10px 15px; color: #5066e2; font-family:SC_lt; font-size: 16px; border: 1px solid #5066e2; text-align: center; background: url("./img/arrow3.png") no-repeat 90% 45% / 30px ; }
+section.cha2 .cha-txt a {text-align:center; display: inline-block; margin-top: 30px; text-decoration: none; padding: 10px 50px 10px 15px; color: #5066e2; font-family:SC_lt; font-size: 16px; border: 1px solid #5066e2; text-align: center; background: url("./img/arrow3.png") no-repeat 90% 45% / 30px ; }
 section.cha2 .cha-txt a:hover { color : #fff;  
     background: url("../img/arrow2.png") no-repeat 90% 45% / 30px #5066e2; border: 1px solid #5066e2;}
 
